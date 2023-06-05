@@ -4,3 +4,6 @@
 - BASE_FACTORY_SPEED_MIL factory output increase FROM 2.5 to 3.5
 - BASE_NAV_FACTORY_SPEED_MIL dockyard output from 6 to 5
 - 1 more dockyard allowed per line 
+- increased capture rate from 0.005 to 0.006
+- reduced out of supply attrition from 0.4 to 0.3
+- TERRAIN FIXES : HILL FROM 0.25 to 0.25 mountains: from 0.5 to 0.45 , movement from 0.4 to 0.5
