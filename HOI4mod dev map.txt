@@ -3,10 +3,9 @@ RIdicule Tiger Developmnent roadmap:
 1. Rebalance Defines: 
 -Navies
 -Combat -- increased strength dmg & casualties
--Terrain
--Generals
--Industry
--Start
+-Generals -- 
+-Industry -- 
+-Start -- 
 -Tactics --maybe
 -Some provinces rework : larger cities, reworked chockepoint eg. gibraltar, el alaimen etc
 2.Rework Focus Tree:
