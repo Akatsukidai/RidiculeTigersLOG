@@ -1,0 +1,34 @@
+﻿add_namespace = czech
+
+
+#Give GER Sudetenland 
+country_event = {
+	id = czech.22
+	title = czech.22.t
+	desc = czech.22.d
+	picture = GFX_report_event_hitler_handshake
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = czech.1.a #yes
+		ai_chance = {
+			factor = 100
+		}
+		GER = {
+			add_state_core = 69
+			transfer_state = 69
+			add_state_core = 74
+			transfer_state = 74
+		}
+		CZE = {
+			country_event = { id = czech.23 hours = 6 }
+		}
+		
+		hidden_effect = {
+			
+		}
+	}
+	
+
+}

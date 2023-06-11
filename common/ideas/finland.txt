@@ -46,6 +46,23 @@ ideas = {
 				army_core_defence_factor = 0.1
 			}
 		}
+		SKP_banned = {
+			picture = anti_soviet_pact
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				NOT = {
+					has_government = communism
+				}
+			}
+
+			modifier = {
+				communism_drift = -0.2
+				democratic_drift = 0.1
+			}
+		}
 	}
 
 	# TECHNOLOGY
